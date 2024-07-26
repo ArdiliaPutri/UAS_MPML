@@ -1,5 +1,4 @@
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 df = pd.read_csv("C:\\Users\\hp\\OneDrive\\Desktop\\Stat 4\\MPML\\UAS\\onlinefoods.csv")
 df
